@@ -104,18 +104,24 @@
     <color name="attachment_preview_more_items_text_background">#44000000</color>
 
     <array name="letter_tile_colors">
-        <item>@*android:color/system_accent1_300</item>
-        <item>@*android:color/system_accent2_300</item>
-        <item>@*android:color/system_accent3_300</item>
-        <item>@*android:color/system_accent1_400</item>
-        <item>@*android:color/system_accent2_400</item>
-        <item>@*android:color/system_accent3_400</item>
-        <item>@*android:color/system_accent1_500</item>
-        <item>@*android:color/system_accent2_500</item>
-        <item>@*android:color/system_accent3_500</item>
-        <item>@*android:color/system_accent1_600</item>
-        <item>@*android:color/system_accent2_600</item>
-        <item>@*android:color/system_accent3_600</item>
+        <item>@android:color/system_accent1_100</item>
+        <item>@android:color/system_accent2_100</item>
+        <item>@android:color/system_accent3_100</item>
+        <item>@android:color/system_accent1_200</item>
+        <item>@android:color/system_accent2_200</item>
+        <item>@android:color/system_accent3_200</item>
+        <item>@android:color/system_accent1_300</item>
+        <item>@android:color/system_accent2_300</item>
+        <item>@android:color/system_accent3_300</item>
+        <item>@android:color/system_accent1_400</item>
+        <item>@android:color/system_accent2_400</item>
+        <item>@android:color/system_accent3_400</item>
+        <item>@android:color/system_accent1_500</item>
+        <item>@android:color/system_accent2_500</item>
+        <item>@android:color/system_accent3_500</item>
+        <item>@android:color/system_accent1_600</item>
+        <item>@android:color/system_accent2_600</item>
+        <item>@android:color/system_accent3_600</item>
     </array>
 
     <color name="letter_tile_font_color">#ffffff</color>
